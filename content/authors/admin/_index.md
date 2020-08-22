@@ -23,7 +23,7 @@ bio: My research interests include Robotics, Visual SLAM and Computer Vision.
 interests:
 - Visual SLAM
 - Computer Vision
-- Robotics
+- Mobile robot
 
 education:
   courses:
@@ -53,10 +53,10 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=-FwJwKMAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/cnqiangfu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-was born in Hunan, China. He is a final year Ph.D. with the National Engineering Laboratory for Robot Visual Perception and Control Technology, College of Electrical And Information Engineering, Hunan University, China, under the supervision of Prof. Hongshan Yu. He is also currently a Visiting Scholar with the University of Alberta, Robotic and Vision Group, Edmonton, AB, Canada, under the supervision of Prof. Hong Zhang (IEEE Fellow). His research interests include mobile robot, visual SLAM, computer vision (email: cn.fq@qq.com).
+was born in Hunan, China. He is in the final year of Ph.D. with the National Engineering Laboratory for Robot Visual Perception and Control Technology, College of Electrical And Information Engineering, Hunan University, China, under the supervision of Prof. Hongshan Yu. From 2019 to 2020, He is a Visiting Scholar with the University of Alberta, Robotic and Vision Group, Edmonton, AB, Canada, under the supervision of Prof. Hong Zhang (IEEE Fellow). His research interests include mobile robot, visual SLAM, computer vision (email: cn.fq@qq.com).
