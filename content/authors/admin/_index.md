@@ -75,7 +75,7 @@ user_groups:
 
 was born in Hunan, China. He is now the final year of the Ph.D. with the National Engineering Laboratory for Robot Visual Perception and Control Technology, College of Electrical And Information Engineering, Hunan University, China, under the supervision of Prof. Hongshan Yu. From 2019 to 2020, He is a Visiting Scholar with the Robotic and Vision Group, University of Alberta, Edmonton, AB, Canada, under the supervision of Prof. Hong Zhang (IEEE Fellow). 
 
-His research interests include mobile robot, visual SLAM, computer vision (email: cn.fq@qq.com).
+His research interests include mobile robot, visual SLAM, computer vision. He can be reached at: cn.fq@qq.com).
 
 Google Scholar: https://scholar.google.com/citations?user=-FwJwKMAAAAJ&hl=en
 
