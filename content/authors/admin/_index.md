@@ -51,12 +51,15 @@ social:
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+- icon: google
   icon_pack: fab
   link: https://scholar.google.com/citations?user=-FwJwKMAAAAJ&hl=en
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCdam6Gq71tBnZ3YNHPhkWdw?view_as=subscriber
 - icon: github
   icon_pack: fab
-  link: https://github.com/cnqiangfu
+  link: https://github.com/cnqiangfu  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
