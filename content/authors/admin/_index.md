@@ -14,7 +14,7 @@ role: Code Dog
 
 # Organizations/Affiliations
 organizations:
-- name: Hunan University
+- name: Final Year of PhD
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
