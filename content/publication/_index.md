@@ -9,7 +9,7 @@ title: Publications
 view: 4
 
 # Optional header image (relative to `static/media/` folder).
-header:adhkahd
+header:
   caption: ""
   image: ""
 ---
