@@ -15,20 +15,20 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "ieee"
-  icon_pack = "ai"
-  name = "IEEE Member"
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Robot"
   description = "80%"
   
 [[feature]]
-  icon = "laptop-code"
+  icon = "keyboard"
   icon_pack = "fas"
   name = "C++ & Python"
   description = "80%"  
   
 [[feature]]
   icon = "laptop-code"
-  icon_pack = "ai"
+  icon_pack = "fas"
   name = "Computer"
   description = "80%"
 
