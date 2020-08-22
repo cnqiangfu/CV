@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD
+role: Code Dog
 
 # Organizations/Affiliations
 organizations:
@@ -33,10 +33,10 @@ education:
   - course: Visisting PhD Student
     institution: Department of Computing Science, University of Alberta 
     year: 2019-2020
-  #- course: MEng in Artificial Intelligence
+  # - course: MEng in Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
   #  year: 2009
-  #- course: BSc in Artificial Intelligence
+  # - course: BSc in Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
   #  year: 2008
 
@@ -45,10 +45,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
+# - icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
+# - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
