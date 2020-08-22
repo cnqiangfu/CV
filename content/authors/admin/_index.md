@@ -23,7 +23,7 @@ bio: My research interests include Robotics, Visual SLAM and Computer Vision.
 interests:
 - Visual SLAM
 - Computer Vision
-- Mobile robot
+- Mobile Robot
 
 education:
   courses:
