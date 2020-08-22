@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Control Science and Engineering
+  - course: PhD, Control Science and Engineering
     institution: National Engineering Laboratory for Robot Visual Perception and Control Technology, Hunan University
     year: 2016-2021
   - course: Visisting PhD Student
