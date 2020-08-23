@@ -30,7 +30,7 @@ education:
   - course: PhD, Control Science and Engineering
     institution: National Engineering Laboratory for Robot Visual Perception and Control Technology, Hunan University
     year: 2016-2021
-  - course: Visisting PhD Student
+  - course: Visiting PhD Student, Computing Science
     institution: Department of Computing Science, University of Alberta 
     year: 2019-2020
   # - course: MEng in Artificial Intelligence
@@ -76,7 +76,7 @@ user_groups:
 - Visitors
 ---
 
-was born in Hunan, China. He is now the final year of the Ph.D. with the National Engineering Laboratory for Robot Visual Perception and Control Technology, College of Electrical And Information Engineering, Hunan University, China, under the supervision of Prof. Hongshan Yu. From 2019 to 2020, He is a Visiting Scholar with the Robotic and Vision Group, University of Alberta, Edmonton, AB, Canada, under the supervision of Prof. Hong Zhang (IEEE Fellow). 
+was born in Hunan, China. He is now the final year of the Ph.D. with the National Engineering Laboratory for Robot Visual Perception and Control Technology, College of Electrical And Information Engineering, Hunan University, China, under the supervision of Prof. Hongshan Yu. From 2019 to 2020, He is a Visiting Scholar with the Robotic and Vision Group, Department of Computing Science, University of Alberta, Canada, under the supervision of Prof. Hong Zhang (IEEE Fellow). 
 
 His research interests include mobile robot, visual SLAM, computer vision. He can be reached at: cn.fq@qq.com.
 
