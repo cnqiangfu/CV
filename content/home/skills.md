@@ -18,19 +18,19 @@ subtitle = ""
   icon = "robot"
   icon_pack = "fas"
   name = "Robot"
-  description = "80%"
+  description = "51%"
   
 [[feature]]
   icon = "keyboard"
   icon_pack = "fas"
   name = "C++ & Python"
-  description = "80%"  
+  description = "51%"  
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Computer"
-  description = "80%"
+  description = "51%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
