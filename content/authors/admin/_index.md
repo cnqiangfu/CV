@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Qiang Fu (付强)
+title: Qiang Fu 
+      (付强)
 
 # Username (this should match the folder name)
 authors:
