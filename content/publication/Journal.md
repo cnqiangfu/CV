@@ -6,13 +6,13 @@ date: "2020"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020"
+publishDate: "2020 08"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Arxiv"
@@ -28,16 +28,18 @@ tags:
 featured: true
 
 links:
+url_pdf: https://arxiv.org/pdf/2008.09870.pdf
+url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
+
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: https://arxiv.org/pdf/2008.09870.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
 # url_source: https://www.youtube.com/watch?v=bFWTT-kGEQ0
-url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
