@@ -43,8 +43,7 @@ url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image: 
-  - fastorbslam.png
+image:   
   caption: fastorbslam.png
   focal_point: ""
   preview_only: true
