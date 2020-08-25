@@ -44,7 +44,7 @@ url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # {{< figure src="fastorbslam.png" title="A caption" >}}
 image:
-  caption: fastorbslam.png
+  caption: 'Image credit: [**Unsplash**](fastorbslam.png)'
   focal_point: "featured.png"
   preview_only: true
 
