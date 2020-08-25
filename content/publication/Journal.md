@@ -45,7 +45,7 @@ url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
 # {{< figure src="fastorbslam.png" title="A caption" >}}
 image:
   caption: fastorbslam.png
-  focal_point: "fastorbslam.png"
+  focal_point: "featured.png"
   preview_only: true
 
 # Associated Projects (optional).
