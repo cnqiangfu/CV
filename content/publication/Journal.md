@@ -37,7 +37,7 @@ url_pdf: https://arxiv.org/pdf/2008.09870.pdf
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-# url_video: '#'
+url_video1: https://www.youtube.com/watch?v=bFWTT-kGEQ0
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -51,8 +51,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+# projects:
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
