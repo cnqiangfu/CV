@@ -30,7 +30,6 @@ featured: true
 links:
 url_pdf: https://arxiv.org/pdf/2008.09870.pdf
 url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
-
 # - name: Custom Link
 #  url: http://example.org
 # url_code: '#'
@@ -45,7 +44,6 @@ url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # {{< figure src="fastorbslam.jpg" title="A caption" >}}
 image: fastorbslam.png
-figure src　=
 caption: fastorbslam.png
 focal_point: ""
 preview_only: true
