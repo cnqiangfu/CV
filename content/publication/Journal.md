@@ -44,9 +44,9 @@ url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # {{< figure src="fastorbslam.jpg" title="A caption" >}}
 image: fastorbslam.png
-caption: fastorbslam.png
-focal_point: ""
-preview_only: true
+  caption: fastorbslam.png
+  focal_point: ""
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
