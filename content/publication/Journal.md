@@ -43,8 +43,8 @@ url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # {{< figure src="fastorbslam.png" title="A caption" >}}
-![Image of Yaktocat](fastorbslam.png)
-image:
+
+image: ![Image of Yaktocat](fastorbslam.png)
   caption: 'Image credit: [**Unsplash**](fastorbslam.png)'
   focal_point: "featured.png"
   preview_only: true
