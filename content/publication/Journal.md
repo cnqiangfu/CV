@@ -45,8 +45,8 @@ url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
 # {{< figure src="fastorbslam.png" title="A caption" >}}
 
 image: 
-  caption: 'Image credit: [**Unsplash**](fastorbslam.png)'
-  focal_point: "featured.png"
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
   preview_only: true
 
 # Associated Projects (optional).
