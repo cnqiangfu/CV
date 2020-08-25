@@ -36,13 +36,13 @@ url_pdf: https://arxiv.org/pdf/2008.09870.pdf
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
-url_source: https://www.youtube.com/watch?v=bFWTT-kGEQ0
+# url_source: https://www.youtube.com/watch?v=bFWTT-kGEQ0
 url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'fastorbslam.png'
   focal_point: ""
   preview_only: false
 
