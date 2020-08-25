@@ -23,7 +23,7 @@ abstract: Indirect methods for visual SLAM are gaining popularity due to their r
 # Summary. An optional shortened abstract.
 summary: Indirect methods for visual SLAM are gaining popularity due to their robustness to varying environments. ORB-SLAM2 is a benchmark method in this domain, however, the computation of descriptors in ORB-SLAM2 is time-consuming and the descriptors cannot be reused unless a frame is selected as a keyframe. To overcome these problems, we present FastORB-SLAM which is light-weight and efficient as it tracks keypoints between adjacent frames without computing descriptors.
 
- tags:
+tags:
  - Source Themes
 featured: true
 
