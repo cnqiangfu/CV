@@ -28,11 +28,11 @@ tags:
 featured: true
 
 links:
-url_pdf: https://ieeexplore.ieee.org/abstract/document/9078852
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8756267
 # url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
 # - name: Custom Link
 #  url: http://example.org
-url_code: https://github.com/zgyang-hnu/NDNet
+# url_code: https://github.com/zgyang-hnu/NDNet
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
