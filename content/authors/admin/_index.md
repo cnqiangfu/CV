@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Final Year of PhD (CodeDog)
+role: Final Year of PhD
 
 # Organizations/Affiliations
 organizations:
