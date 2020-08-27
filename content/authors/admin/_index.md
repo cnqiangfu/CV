@@ -77,7 +77,7 @@ user_groups:
 - Visitors
 ---
 
-He revived the B.S. degrees with a high GPA (Top 5%) in Electronic Information Science and Technology from Hunan Normal University, 2015. Subsequently, he was recommended for admission to be a postgraduate at Hunan Univerisity without exams. He is now the final year of the Ph.D. with the National Engineering Laboratory for Robot Visual Perception and Control Technology, College of Electrical And Information Engineering, Hunan University, China, under the supervision of Prof. Hongshan Yu. From 2019 to 2020, He was a Visiting Scholar in the Robotic and Vision Group, Department of Computing Science, University of Alberta, Canada, under the supervision of Prof. Hong Zhang (IEEE and CAE Fellow). 
+Qiang Fu revived the B.S. degrees with a high GPA (Top 5%) in Electronic Information Science and Technology from Hunan Normal University, 2015. Subsequently, he was recommended for admission to be a postgraduate at Hunan Univerisity without exams. He is now the final year of the Ph.D. with the National Engineering Laboratory for Robot Visual Perception and Control Technology, College of Electrical And Information Engineering, Hunan University, China, under the supervision of Prof. Hongshan Yu. From 2019 to 2020, He was a Visiting Scholar in the Robotic and Vision Group, Department of Computing Science, University of Alberta, Canada, under the supervision of Prof. Hong Zhang (IEEE and CAE Fellow). 
 
 His research interests include mobile robot, visual SLAM, computer vision. He can be reached at: cn.fq@qq.com.
 
