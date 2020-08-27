@@ -1,8 +1,8 @@
 ---
-title: "FastORB-SLAM: a Fast ORB-SLAM Method with Coarse-to-Fine Descriptor Independent Keypoint Matching"
+title: "NDNet: Narrow While Deep Network for Real-Time Semantic Segmentation"
 authors:
-- Qiang Fu, Hongshan Yu, Xiaolong Wang, Zhengeng Yang, Hong Zhang, and Ajmal Mian
-date: "2020-12"
+- Zhengeng Yang, Qiang Fu, Hongshan Yu, Wei Sun, Wenyan Jia, Mingui Sun, Zhi-Hong Mao
+date: "2020-12-1"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,10 +15,10 @@ publishDate: "2020-08"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Preprint Arxiv"
+publication: "Trans on ITS"
 # publication_short: ""
 
-abstract: Indirect methods for visual SLAM are gaining popularity due to their robustness to varying environments. ORB-SLAM2 is a benchmark method in this domain, however, the computation of descriptors in ORB-SLAM2 is time-consuming and the descriptors cannot be reused unless a frame is selected as a keyframe. To overcome these problems, we present FastORB-SLAM which is light-weight and efficient as it tracks keypoints between adjacent frames without computing descriptors. To achieve this, a two-stage coarse-to-fine descriptor independent keypoint matching method is proposed based on sparse optical flow. In the first stage, we first predict initial keypoint correspondences via a uniform acceleration motion model and then robustly establish the correspondences via a pyramid-based sparse optical flow tracking method. In the second stage, we leverage motion smoothness and the epipolar constraint to refine the correspondences. In particular, our method computes descriptors only for keyframes. We test FastORB-SLAM with an RGBD camera on TUM and ICL-NUIM datasets and compare its accuracy and efficiency to nine existing RGBD SLAM methods. Qualitative and quantitative results show that our method achieves state-of-the-art performance in accuracy and is about twice as fast as the ORB-SLAM2.
+abstract: The rapid development of autonomous driving in recent years presents many challenges for scene understanding. As an essential step towards scene understanding, semantic segmentation has received increased attention in the past few years. Although deep learning based approaches have achieved great success in improving the segmentation accuracy, most of them suffer from an inefficiency problem and can hardly be applied to real-time applications. In this paper, we analyze the computational cost of Convolutional Neural Network (CNN) and find that the inefficiency of CNNs is mainly caused by their wide structure rather than deep structure. In addition, the success of pruning based model compression methods proves that there are many redundant channels in CNNs. Thus, we design a narrow while deep backbone network to improve the efficiency of semantic segmentation. By casting our network to fully convolutional network (FCN32) segmentation architecture, the basic structure of most segmentation methods, we achieve 61.5% mIoU on Cityscapes validation dataset with only 4.2G floating-point operations (FLOPs) on 1024x2048 inputs, which already outperforms one of the earliest real-time deep learning based segmentation methods: ENet (58.3% mIoU, 3.8G FLOPs on 640x360 inputs). By further refining the output resolution of our network to the 1/8 of the input resolution with a simple encoder-decoder structure, we achieve 65.3% mIoU on Cityscapes test set with 14.0G FLOPs and 39.9 frames per second (FPS) on Titan X card. We have made our model publicly available at https://github.com/zgyang-hnu/NDNet.
 
 # Summary. An optional shortened abstract.
 # summary: In this paper we present FastORB-SLAM which is light-weight and efficient as it tracks keypoints between adjacent frames without computing descriptors.
@@ -28,11 +28,11 @@ tags:
 featured: true
 
 links:
-url_pdf: https://arxiv.org/pdf/2008.09870.pdf
-url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9078852
+# url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
 # - name: Custom Link
 #  url: http://example.org
-# url_code: '#'
+url_code: https://github.com/zgyang-hnu/NDNet
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
