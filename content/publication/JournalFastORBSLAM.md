@@ -45,7 +45,7 @@ url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
 # {{< figure src="fastorbslam.png" title="A caption" >}}
 
 image: 
-  placement: 1
+  placement: 2
   caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
   focal_point: "Center"
   preview_only: true
