@@ -25,7 +25,7 @@ publication: "IEEE Transactions on Intelligent Transportation Systems"
 
 tags:
  - Source Themes
-featured: true
+featured: false
 
 links:
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9078852
