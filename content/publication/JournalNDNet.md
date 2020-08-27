@@ -45,7 +45,7 @@ url_code: https://github.com/zgyang-hnu/NDNet
 # {{< figure src="fastorbslam.png" title="A caption" >}}
 
 image: 
-  placement: 1
+  placement: 2
   caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
   focal_point: "Center"
   preview_only: false
@@ -53,6 +53,8 @@ image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   # focal_point: ""
   # preview_only: true
+  
+{{< figure src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" title="Academic is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
