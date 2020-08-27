@@ -25,7 +25,7 @@ publication: "IEEE Sensor Journal"
 
 tags:
  - Source Themes
-featured: true
+featured: false
 
 links:
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8554288
