@@ -45,9 +45,14 @@ url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
 # {{< figure src="fastorbslam.png" title="A caption" >}}
 
 image: 
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  placement: 1
+  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
+  focal_point: "Center"
   preview_only: true
+  alt_text: An optional description of the image for screen readers.
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  # focal_point: ""
+  # preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
