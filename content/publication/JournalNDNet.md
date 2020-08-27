@@ -1,7 +1,7 @@
 ---
 title: "NDNet: Narrow While Deep Network for Real-Time Semantic Segmentation"
 authors:
-- Zhengeng Yang, Qiang Fu, Hongshan Yu, Wei Sun, Wenyan Jia, Mingui Sun, Zhi-Hong Mao
+- Zhengeng Yang, Hongshan Yu, Qiang Fu, Wei Sun, Wenyan Jia, Mingui Sun, Zhi-Hong Mao
 date: "2020-04-27"
 doi: ""
 
