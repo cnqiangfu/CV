@@ -14,7 +14,7 @@ publishDate: "2020-08-20"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
+publication: "arXiv preprint"
 # publication_short: ""
 
 # abstract: 
