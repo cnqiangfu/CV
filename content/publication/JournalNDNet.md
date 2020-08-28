@@ -23,9 +23,9 @@ publication: "IEEE Transactions on Intelligent Transportation Systems"
 # Summary. An optional shortened abstract.
 # summary: In this paper we present FastORB-SLAM which is light-weight and efficient as it tracks keypoints between adjacent frames without computing descriptors.
 
-tags:
- - Source Themes
-featured: false
+# tags:
+# - Source Themes
+featured: true
 
 links:
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9078852
