@@ -2,10 +2,10 @@
 title: "FastORB-SLAM: a Fast ORB-SLAM Method with Coarse-to-Fine Descriptor Independent Keypoint Matching"
 authors:
 - Qiang Fu, Hongshan Yu, Xiaolong Wang, Zhengeng Yang, Hong Zhang, and Ajmal Mian
-date: "2020-03-15"
+date: "2020-12-15"
 doi: ""
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-07-01"
+publishDate: "2020-08-20"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -14,7 +14,7 @@ publishDate: "2020-07-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Preprint Arxiv"
+publication: "arXiv"
 # publication_short: ""
 
 # abstract: 
