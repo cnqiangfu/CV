@@ -28,7 +28,7 @@ tags:
 featured: true
 
 links:
-url_pdf: https://arxiv.org/pdf/2008.09870.pdf
+url_pdf: https://arxiv.org/abs/2008.09870
 url_video: https://www.youtube.com/watch?v=bFWTT-kGEQ0
 # - name: Custom Link
 #  url: http://example.org
