@@ -46,7 +46,7 @@ url_code: https://github.com/cnqiangfu/PL-VINS
 
 image: 
   placement: 2
-  caption: "Photo by [Academic](https://github.com/cnqiangfu/CV/blob/master/content/publication/featured.png)"
+  caption: "Photo by [FastORB-SLAM](https://github.com/cnqiangfu/CV/blob/master/content/publication/featured.png)"
   focal_point: "Center"
   preview_only: true
   alt_text: An optional description of the image for screen readers.
