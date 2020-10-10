@@ -82,3 +82,5 @@ I am in the final year of the Ph.D. with the National Engineering Laboratory for
 My research interests include mobile robot, visual SLAM, computer vision (CV). Currently, I am looking for an opening position such as postdoctor, research associate, or algorithm engineer about visual SLAM or CV. I can be reached at: cn.fq@qq.com.
 
 - This site is under construction.
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=rgCH_XybYJO_1z69OE8Vo9oiTFNV7tJsmjacWXDUFv0&cl=ffffff&w=a"></script>
