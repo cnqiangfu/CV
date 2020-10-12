@@ -83,4 +83,4 @@ My research interests include mobile robot, visual SLAM, computer vision (CV). C
 
 - This site is under construction.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=rgCH_XybYJO_1z69OE8Vo9oiTFNV7tJsmjacWXDUFv0&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=rgCH_XybYJO_1z69OE8Vo9oiTFNV7tJsmjacWXDUFv0&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
